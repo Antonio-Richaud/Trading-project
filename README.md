@@ -7,10 +7,10 @@ Este repositorio documenta y centraliza el desarrollo de un sistema avanzado par
 
 Nuestro enfoque inicial está en las criptomonedas, especialmente en Avalanche (AVAX), Solana (SOL) y Polygon (MATIC), mientras construimos un marco escalable para incluir otros mercados financieros.
 
-<div style="text-align: center;">
-  <img src="./imagenes/iconos/avalanche.png" alt="Avalanche" width="60" style="margin: 0 15px;">
-  <img src="./imagenes/iconos/solana.webp" alt="Solana" width="60" style="margin: 0 15px;">
-  <img src="./imagenes/iconos/matic.png" alt="Polygon" width="60" style="margin: 0 15px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+  <img src="./imagenes/iconos/avalanche.png" alt="Avalanche" width="60">
+  <img src="./imagenes/iconos/solana.webp" alt="Solana" width="60">
+  <img src="./imagenes/iconos/matic.png" alt="Polygon" width="60">
 </div>
 
 ---
@@ -40,16 +40,17 @@ Este proyecto utiliza una combinación de herramientas y tecnologías avanzadas:
 - **Automatización en Hardware**: NVIDIA Jetson Nano para un entorno de ejecución optimizado.
 - **VPN**: ProtonVPN para evitar restricciones geográficas de las API.
 
-![Python](./imagenes/iconos/python.webp)
-![NVIDIA](./imagenes/iconos/nvidia.png)
-![Binance](./imagenes/iconos/binance.png)
-![Kucoin](./imagenes/iconos/kucoin.svg)
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+  <img src="./imagenes/iconos/python.webp" alt="Python" width="60">
+  <img src="./imagenes/iconos/nvidia.png" alt="NVIDIA" width="60">
+  <img src="./imagenes/iconos/binance.png" alt="Binance" width="60">
+  <img src="./imagenes/iconos/kucoin.svg" alt="KuCoin" width="60">
+</div>
 
 ---
 
 ## Estructura del Repositorio
 
-\`\`\`
 /docs               # Documentación del proyecto<br>
 /scripts            # Códigos Python para trading<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/binance        # Scripts específicos para Binance<br>
@@ -60,7 +61,6 @@ Este proyecto utiliza una combinación de herramientas y tecnologías avanzadas:
 /results            # Resultados y gráficas de ganancias<br>
 /requirements.txt   # Lista de dependencias<br>
 README.md           # Descripción general del proyecto<br>
-\`\`\`
 
 ---
 
@@ -85,7 +85,7 @@ El capital inicial de inversión para este proyecto será de **10,000 MXN** (apr
 ¡Estás invitado a participar en este proyecto! Si tienes ideas, sugerencias o mejoras, sigue estos pasos:
 
 1. Haz un fork del repositorio.
-2. Crea una nueva rama para tus cambios: \`git checkout -b feature/nueva-funcionalidad\`
+2. Crea una nueva rama para tus cambios: [git checkout -b feature nueva-funcionalidad]
 3. Realiza un pull request describiendo tus cambios.
 
 ---
