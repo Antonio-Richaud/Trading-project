@@ -23,7 +23,9 @@ El mercado financiero presenta una complejidad creciente debido al gran volumen 
 3. **Aumentar el Rendimiento**: Utilizar Machine Learning para identificar patrones ocultos en los datos y capitalizar oportunidades de inversión.
 4. **Escalabilidad**: Crear un sistema adaptable que pueda analizar diversos mercados y activos.
 
-![Imagen descriptiva](./imagenes/iconos/trading-1.png)
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="./imagenes/iconos/trading-1.png" alt="Imagen descriptiva" style="max-width: 100%; height: auto;">
+</div>
 
 ---
 
@@ -98,7 +100,7 @@ Este proyecto está desarrollado por [**Antonio Richaud**](https://Antonio-Richa
 ### Conecta conmigo:
 
 <a href="https://www.tiktok.com/@antonio_richaud" style="margin-right:10px;">
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.13.0/tiktok.svg" alt="TikTok" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/tiktok.svg" alt="TikTok" width="40" />
 </a>
 <a href="https://www.instagram.com/antonio.richaud" style="margin-right:10px;"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40"></a>
 <a href="https://www.linkedin.com/in/antonio-richaud"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40"></a>
