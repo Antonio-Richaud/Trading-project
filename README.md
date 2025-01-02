@@ -7,9 +7,11 @@ Este repositorio documenta y centraliza el desarrollo de un sistema avanzado par
 
 Nuestro enfoque inicial está en las criptomonedas, especialmente en Avalanche (AVAX), Solana (SOL) y Polygon (MATIC), mientras construimos un marco escalable para incluir otros mercados financieros.
 
-![Avalanche](./imagenes/iconos/avalanche.png)
-![Solana](./imagenes/iconos/solana.webp)
-![Polygon](./imagenes/iconos/matic.png)
+<div style="text-align: center;">
+  <img src="./imagenes/iconos/avalanche.png" alt="Avalanche" width="60" style="margin: 0 15px;">
+  <img src="./imagenes/iconos/solana.webp" alt="Solana" width="60" style="margin: 0 15px;">
+  <img src="./imagenes/iconos/matic.png" alt="Polygon" width="60" style="margin: 0 15px;">
+</div>
 
 ---
 
